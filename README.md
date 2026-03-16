@@ -50,7 +50,7 @@ Includes:
 * JSON developer-ready dataset
 * Muscle targeting and instructions
 
-[Get the 300 Exercise Dataset](https://leetcodepro.gumroad.com/l/yoxyh)
+[Get the 300 Exercise Dataset](https://leetcodepro.gumroad.com/l/nxtcef)
 
 ---
 
@@ -66,7 +66,7 @@ Includes:
 * JSON developer-ready dataset
 * Muscle targeting and instructions
 
-[Get the Full 1500 Exercise Dataset](https://leetcodepro.gumroad.com/l/imaioi)
+[Get the Full 1500 Exercise Dataset](https://leetcodepro.gumroad.com/l/rfned)
 
 ---
 
