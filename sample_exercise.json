@@ -1,0 +1,146 @@
+[
+  {
+    "exerciseId": "6HiHHe0",
+    "name": "barbell standing rocking leg calf raise",
+    "gifUrl": "6HiHHe0.gif",
+    "targetMuscles": ["calves"],
+    "bodyParts": ["lower legs"],
+    "equipments": ["barbell"],
+    "secondaryMuscles": ["hamstrings", "quadriceps"],
+    "instructions": [
+      "Step:1 Stand with your feet shoulder-width apart and hold a barbell across your upper back.",
+      "Step:2 Raise your heels off the ground as high as possible, balancing on the balls of your feet.",
+      "Step:3 Slowly lower your heels back down to the starting position.",
+      "Step:4 Repeat for the desired number of repetitions."
+    ]
+  },
+  {
+    "exerciseId": "6kSxYnw",
+    "name": "barbell wrist curl v. 2",
+    "gifUrl": "6kSxYnw.gif",
+    "targetMuscles": ["forearms"],
+    "bodyParts": ["lower arms"],
+    "equipments": ["barbell"],
+    "secondaryMuscles": ["biceps", "brachialis"],
+    "instructions": [
+      "Step:1 Sit on a bench with your feet flat on the ground and your knees bent.",
+      "Step:2 Hold a barbell with an underhand grip, palms facing up, and your hands shoulder-width apart.",
+      "Step:3 Rest your forearms on your thighs, allowing your wrists to hang off the edge.",
+      "Step:4 Slowly curl your wrists upward, bringing the barbell towards your forearms.",
+      "Step:5 Pause for a moment at the top, then slowly lower the barbell back down to the starting position.",
+      "Step:6 Repeat for the desired number of repetitions."
+    ]
+  },
+  {
+    "exerciseId": "6MfS53i",
+    "name": "dumbbell lying single extension",
+    "gifUrl": "6MfS53i.gif",
+    "targetMuscles": ["triceps"],
+    "bodyParts": ["upper arms"],
+    "equipments": ["dumbbell"],
+    "secondaryMuscles": ["shoulders"],
+    "instructions": [
+      "Step:1 Lie flat on a bench with a dumbbell in one hand and your arm fully extended above your chest.",
+      "Step:2 Lower the dumbbell in a controlled manner towards your forehead, keeping your upper arm stationary.",
+      "Step:3 Pause briefly at the bottom of the movement, then extend your arm back to the starting position.",
+      "Step:4 Repeat for the desired number of repetitions, then switch arms."
+    ]
+  },
+  {
+    "exerciseId": "8eqjhOl",
+    "name": "dumbbell palms in incline bench press",
+    "gifUrl": "8eqjhOl.gif",
+    "targetMuscles": ["triceps"],
+    "bodyParts": ["upper arms"],
+    "equipments": ["dumbbell"],
+    "secondaryMuscles": ["chest", "shoulders"],
+    "instructions": [
+      "Step:1 Set up an incline bench at a 45-degree angle.",
+      "Step:2 Sit on the bench with your back against the backrest and feet flat on the ground.",
+      "Step:3 Hold a dumbbell in each hand with an overhand grip, palms facing inwards.",
+      "Step:4 Extend your arms straight up above your chest, keeping a slight bend in your elbows.",
+      "Step:5 Lower the dumbbells slowly towards your shoulders, keeping your elbows close to your body.",
+      "Step:6 Pause for a moment at the bottom, then press the dumbbells back up to the starting position.",
+      "Step:7 Repeat for the desired number of repetitions."
+    ]
+  },
+  {
+    "exerciseId": "8K0w2yA",
+    "name": "assisted hanging knee raise with throw down",
+    "gifUrl": "8K0w2yA.gif",
+    "targetMuscles": ["abs"],
+    "bodyParts": ["waist"],
+    "equipments": ["assisted"],
+    "secondaryMuscles": ["hip flexors", "lower back"],
+    "instructions": [
+      "Step:1 Hang from a pull-up bar with your arms fully extended and your palms facing away from you.",
+      "Step:2 Engage your core and lift your knees towards your chest, keeping your legs together.",
+      "Step:3 Once your knees are at chest level, explosively throw your legs down towards the ground, extending them fully.",
+      "Step:4 Allow your legs to swing back up and repeat the movement for the desired number of repetitions."
+    ]
+  },
+  {
+    "exerciseId": "8oYqOt9",
+    "name": "cable seated curl",
+    "gifUrl": "8oYqOt9.gif",
+    "targetMuscles": ["biceps"],
+    "bodyParts": ["upper arms"],
+    "equipments": ["cable"],
+    "secondaryMuscles": ["forearms"],
+    "instructions": [
+      "Step:1 Sit on a cable machine with your feet flat on the ground and your back straight.",
+      "Step:2 Grasp the cable attachment with an underhand grip, palms facing up, and your arms fully extended.",
+      "Step:3 Keeping your upper arms stationary, exhale and curl the cable attachment towards your shoulders, contracting your biceps.",
+      "Step:4 Pause for a moment at the top of the movement, squeezing your biceps.",
+      "Step:5 Inhale and slowly lower the cable attachment back to the starting position, fully extending your arms.",
+      "Step:6 Repeat for the desired number of repetitions."
+    ]
+  },
+  {
+    "exerciseId": "8ozhUIZ",
+    "name": "barbell standing calf raise",
+    "gifUrl": "8ozhUIZ.gif",
+    "targetMuscles": ["calves"],
+    "bodyParts": ["lower legs"],
+    "equipments": ["barbell"],
+    "secondaryMuscles": ["hamstrings", "glutes"],
+    "instructions": [
+      "Step:1 Stand with your feet shoulder-width apart and place a barbell across your upper back.",
+      "Step:2 Raise your heels off the ground as high as possible, using only your toes.",
+      "Step:3 Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+      "Step:4 Repeat for the desired number of repetitions."
+    ]
+  },
+  {
+    "exerciseId": "8urJS9b",
+    "name": "weighted hyperextension (on stability ball)",
+    "gifUrl": "8urJS9b.gif",
+    "targetMuscles": ["spine"],
+    "bodyParts": ["back"],
+    "equipments": ["weighted"],
+    "secondaryMuscles": ["glutes", "hamstrings"],
+    "instructions": [
+      "Step:1 Position yourself face down on a stability ball with your hips resting on the ball and your feet against a wall for stability.",
+      "Step:2 Place your hands behind your head or cross them over your chest.",
+      "Step:3 Engage your core and slowly lift your upper body off the ball, extending your back until your body forms a straight line.",
+      "Step:4 Pause for a moment at the top, then slowly lower your upper body back down to the starting position.",
+      "Step:5 Repeat for the desired number of repetitions."
+    ]
+  },
+  {
+    "exerciseId": "8xUv4J7",
+    "name": "cable seated crunch",
+    "gifUrl": "8xUv4J7.gif",
+    "targetMuscles": ["abs"],
+    "bodyParts": ["waist"],
+    "equipments": ["cable"],
+    "secondaryMuscles": ["obliques"],
+    "instructions": [
+      "Step:1 Sit on a cable machine with your feet flat on the ground and your knees bent.",
+      "Step:2 Hold the cable handle with both hands and position it behind your head.",
+      "Step:3 Engage your abs and slowly curl your upper body forward, bringing your chest towards your knees.",
+      "Step:4 Pause for a moment at the top, then slowly return to the starting position.",
+      "Step:5 Repeat for the desired number of repetitions."
+    ]
+  }
+]
