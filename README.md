@@ -1,6 +1,6 @@
 # BodyIQ — 1500 Exercises with GIF Animations
 
-**FitDataLabs** is a developer-ready exercise dataset designed for building modern fitness applications, workout planners, and AI fitness platforms.
+**BodyIQ** is a developer-ready exercise dataset designed for building modern fitness applications, workout planners, and AI fitness platforms.
 
 It includes **structured exercise data with animated GIF demonstrations**, making it easy to integrate exercise libraries into mobile apps, websites, or SaaS fitness platforms.
 
@@ -19,7 +19,7 @@ When building a fitness app or workout platform, developers usually need structu
 
 While exercise lists can be found online, **exercise animations and structured datasets are much harder to obtain**.
 
-FitDataLabs provides a ready-to-use exercise dataset so developers can focus on building features instead of collecting exercise data manually.
+BodyIQ provides a ready-to-use exercise dataset so developers can focus on building features instead of collecting exercise data manually.
 
 ---
 
