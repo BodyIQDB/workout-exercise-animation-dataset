@@ -1,4 +1,4 @@
-# FitDataLabs — 1500 Exercises with GIF Animations
+# BodyIQ — 1500 Exercises with GIF Animations
 
 **FitDataLabs** is a developer-ready exercise dataset designed for building modern fitness applications, workout planners, and AI fitness platforms.
 
