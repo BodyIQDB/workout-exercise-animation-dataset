@@ -66,7 +66,7 @@ Includes:
 * JSON developer-ready dataset
 * Muscle targeting and instructions
 
-[Get the Full 1500 Exercise Dataset](https://leetcodepro.gumroad.com/l/rfned)
+[Get the Full 1500 Exercise Dataset](https://leetcodepro.gumroad.com/l/seudm)
 
 ---
 
